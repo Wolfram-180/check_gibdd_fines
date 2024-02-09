@@ -29,8 +29,8 @@ def sleep(secs, place='whatever'):
         secs -= 1
 
 
-cars = {'х988то750': 'https://xn--90adear.xn--p1ai/check/fines#%D1%85988%D1%82%D0%BE+750+9907379357',
-        'в691ем777': 'https://xn--90adear.xn--p1ai/check/fines#%D0%B2691%D0%B5%D0%BC+777+5047741110'}
+cars = {'о111оо150': 'https://xn--90adear.xn--p1ai/check/fines#%D1%85988%D1%82%D0%BE+111+1111111111',
+        'а222аа110': 'https://xn--90adear.xn--p1ai/check/fines#%D0%B2691%D0%B5%D0%BC+222+2222222222'}
 
 
 if __name__ == "__main__":
